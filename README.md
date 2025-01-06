@@ -4,10 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 </p>
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/HowardKiat/HowardKiat/blob/output/github-contribution-grid-snake.gif" alt="snake eating my contributions">
-</div>
+
 <h2>🛠️ My Favorite Tools</h2>
 👨‍💻 Programming and Markup Languages
 <p>
