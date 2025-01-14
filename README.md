@@ -78,5 +78,5 @@
 </p>
 
 <!-- Snake -->
-![snake gif](https://raw.githubusercontent.com/HowardKiat/HowardKiat/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/HowardKiat/HowardKiat/blob/output/github-contribution-grid-snake.svg)
 
