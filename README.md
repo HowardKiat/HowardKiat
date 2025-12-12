@@ -1,82 +1,131 @@
-<h2 align="center">
-  Hey there! I am Howard Kiat <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
-</p>
+# 🌊 Howard Kiat
 
-<h2>🛠️ My Favorite Tools</h2>
-👨‍💻 Programming and Markup Languages
-<p>
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-    <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-</p>
-🧰 Frameworks and Libraries
-<p>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-v10-FF2D20?logo=laravel&logoColor=white">
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white">
-  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101">
-</p>
-🗄️ Databases and Cloud
-<p>
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase">
-    <img alt="Apache" src="https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&logoColor=white">
-</p>
-💻 Software and Tools
-<p>
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?logo=figma&logoColor=white">
-    <img alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=canva&logoColor=white">
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">
-</p>
-<!-- GitHub Stats -->
-<h2>📊 Github Stats and Activity</h2>
 <div align="center">
-  <img alt="Howard's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HowardKiat&show_icons=true&theme=tokyonight" height="192px"/>
-  <img alt="Howard's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HowardKiat&langs_count=8&layout=compact&theme=tokyonight" height="192px"/>
-</div>
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HowardKiat&theme=tokyonight" alt="GitHub Streak" />
-</div>
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HowardKiat&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
-<!-- Activity Graph -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-  <img alt="Howard's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=HowardKiat&custom_title=Howard%20Kiat's%20Contribution%20Graph&theme=tokyo-night" />
-</details>
-<!-- Random Dev Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-<!-- Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HowardKiat&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
-<!-- Support -->
-<h2 align="center">💖 Support My Work</h2>
-<p align="center">
-  <a href="https://buymeacoffee.com/howardkiat">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-</p>
+  
+### Full Stack Developer | Building Digital Solutions
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+Code+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
-<!-- Snake -->
-![Snake animation](https://github.com/HowardKiat/HowardKiat/blob/output/github-contribution-grid-snake.svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+```typescript
+const developer = {
+    name: "Howard Kiat",
+    role: "Full Stack Developer",
+    location: "Building solutions worldwide 🌏",
+    currentFocus: ["Web Development", "Cloud Architecture", "UI/UX"],
+    mindset: "Clean code, scalable solutions",
+    approachToWork: "Continuous learning and improvement"
+};
+```
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+- 🔭 Currently working on full-stack applications
+- 🌱 Exploring cloud-native architectures
+- 💡 Passionate about creating intuitive user experiences
+- 🎯 Goal-oriented problem solver
+- 📫 Open to collaboration and interesting projects
+
+<br clear="right"/>
+
+---
+
+## 💻 Technical Skills
+
+<div align="center">
+
+### Languages & Markup
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,markdown&theme=dark" />
+
+### Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flask&theme=dark" />
+
+### Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws,firebase,docker&theme=dark" />
+
+### Tools & Software
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,linux,vercel&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=howardkiat&show_icons=true&theme=radical&bg_color=0d1117&title_color=00B4D8&text_color=90E0EF&icon_color=00B4D8&border_color=0096C7&hide_border=false&rank_icon=github" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=howardkiat&theme=radical&background=0d1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&sideNums=90E0EF&currStreakNum=CAF0F8&dates=48CAE4&sideLabels=90E0EF&border=0096C7" alt="GitHub Streak" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=howardkiat&layout=compact&theme=radical&bg_color=0d1117&title_color=00B4D8&text_color=90E0EF&border_color=0096C7&hide_border=false" alt="Top Languages" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=howardkiat&theme=radical" alt="Contribution Graph" width="49%" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=howardkiat&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" width="100%" />
+
+</div>
+
+---
+
+## 🌊 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=howardkiat&bg_color=0d1117&color=90E0EF&line=00B4D8&point=CAF0F8&area=true&hide_border=false&border_color=0096C7&custom_title=Contribution%20Graph" width="95%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
+
+---
+
+## 💖 Support My Work
+
+<div align="center">
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourprofile)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourprofile)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourprofile)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thank you for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=00d9ff&animation=twinkling" width="1000">
+
+![Profile Views](https://komarev.com/ghpvc/?username=howardkiat&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
